@@ -25,7 +25,7 @@ After receiving the original analysis, the District was informed of testing viol
 
 [School Summary](School_District_Resources/school_summary_df.PNG)
 
-- Top 5 Performing Schools (based on overall passing rate) (School_District_Resources/top_five)
+- [Top 5 Performing Schools (based on overall passing rate)](School_District_Resources/top_five)
 	The top five performing schools based on overall passing rate are Cabrera High School, Thomas High School Griffin High School, Wilson High School, Pena High School.  All of these schools are Charter schools and had an overall passing rate of over 90%. All of these schools spend over $575 per student.
 		
 - [Bottom 5 Performing Schools(based on overall passing rate)](School_District_Resources/bottom_five.PNG)
